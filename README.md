@@ -2,7 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
-## Demo
+## Figma and Code Demo
+
+[Figma Page](https://www.figma.com/file/7EQxSKtrUZ3B8ZZDA9BvUi/To-Do-APP?node-id=0%3A1=)
+
 ![GIF of Project](/demo.gif)
 
 
